@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsys.com" resolutions="1x" timestamp="1570176848254">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsys.com" resolutions="1x" timestamp="1570178510016">
   <folder name="fonts">
     <file name="myriadpro-bold.woff" crc="4284783996"/>
     <file name="myriadpro-bold.eot" crc="4279868340"/>
@@ -9,15 +9,15 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3953312764"/>
-    <file name="master_b-master.css" crc="3975809960" ref="laptop:index:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="laptop.css" crc="370948580" ref="laptop"/>
-    <file name="iefonts_laptop.css" crc="3843211912" ref="laptop"/>
-    <file name="index.css" crc="435235356" ref="index"/>
-    <file name="desktop.css" crc="4270665557" ref="desktop"/>
-    <file name="contact.css" crc="3957911916" ref="contact"/>
-    <file name="untitled-6.css" crc="251722618" ref="untitled-6"/>
-    <file name="pinter.css" crc="212051377" ref="pinter"/>
-    <file name="maintainence.css" crc="829639" ref="maintainence"/>
+    <file name="master_b-master.css" crc="3991021143" ref="laptop:index:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="laptop.css" crc="4114814013" ref="laptop"/>
+    <file name="iefonts_laptop.css" crc="260220804" ref="laptop"/>
+    <file name="index.css" crc="4013352126" ref="index"/>
+    <file name="desktop.css" crc="374161489" ref="desktop"/>
+    <file name="contact.css" crc="130349200" ref="contact"/>
+    <file name="untitled-6.css" crc="229639557" ref="untitled-6"/>
+    <file name="pinter.css" crc="196118968" ref="pinter"/>
+    <file name="maintainence.css" crc="4203872080" ref="maintainence"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
@@ -35,23 +35,16 @@
   <folder name="images">
     <file name="38f393cb7568b60a655c8af4218f4a64.jpg" crc="83640857" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="computernew.jpg" crc="525184897" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="product-categories-homepage-carousel-printers-et2750.jpg" crc="432145283" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="accord-crop-u2497.png" crc="29361571" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
-      <caption webpage="laptop" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
-      <caption webpage="pinter" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="maintainence" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="qls-computer-repairs-icon.png" crc="380113572" ref="index">
@@ -340,12 +333,30 @@
       <caption webpage="maintainence" alt=""/>
     </file>
     <file name="comp-servicing-banner-buttonu6649-m-fr.jpg" crc="4083047064" ref="maintainence"/>
+    <file name="accord.png" crc="3887827887" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="pinter" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="maintainence" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="acc.png" crc="42785558" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
+      <caption webpage="laptop" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="pinter" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="maintainence" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="14049440" seo="true" mt="1570001837443" redirect="true"/>
-  <file name="laptop.html" crc="4107458742" seo="true" mt="1570001837443" redirect="true"/>
-  <file name="desktop.html" crc="408315925" seo="true" mt="1570176824670" redirect="true"/>
-  <file name="contact.html" crc="237746718" seo="true" mt="1570001837443" redirect="true"/>
-  <file name="untitled-6.html" crc="4058625799" seo="true" mt="1570001982947" redirect="true"/>
-  <file name="pinter.html" crc="148950474" seo="true" mt="1570176824884" redirect="true"/>
-  <file name="maintainence.html" crc="3797027302" seo="true" mt="1570001837443" redirect="true"/>
+  <file name="index.html" crc="72811608" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="laptop.html" crc="4138149673" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="desktop.html" crc="4294096058" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="contact.html" crc="3851879608" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="untitled-6.html" crc="4191367867" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="pinter.html" crc="423016002" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="maintainence.html" crc="4289647661" seo="true" mt="1570178457388" redirect="true"/>
 </manifest>
