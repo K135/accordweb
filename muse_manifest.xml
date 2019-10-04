@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsys.com" resolutions="1x" timestamp="1570178510016">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsys.com" resolutions="1x" timestamp="1570178790867">
   <folder name="fonts">
     <file name="myriadpro-bold.woff" crc="4284783996"/>
     <file name="myriadpro-bold.eot" crc="4279868340"/>
@@ -13,7 +13,7 @@
     <file name="laptop.css" crc="4114814013" ref="laptop"/>
     <file name="iefonts_laptop.css" crc="260220804" ref="laptop"/>
     <file name="index.css" crc="4013352126" ref="index"/>
-    <file name="desktop.css" crc="374161489" ref="desktop"/>
+    <file name="desktop.css" crc="183338621" ref="desktop"/>
     <file name="contact.css" crc="130349200" ref="contact"/>
     <file name="untitled-6.css" crc="229639557" ref="untitled-6"/>
     <file name="pinter.css" crc="196118968" ref="pinter"/>
@@ -33,18 +33,24 @@
     <file name="require.js" crc="7928878" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
   </folder>
   <folder name="images">
-    <file name="38f393cb7568b60a655c8af4218f4a64.jpg" crc="83640857" ref="index">
+    <file name="38f393cb7568b60a655c8af4218f4a64.jpg" crc="83640857" ref="index:desktop">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="desktop" alt=""/>
     </file>
-    <file name="computernew.jpg" crc="525184897" ref="index">
+    <file name="computernew.jpg" crc="525184897" ref="index:desktop">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="desktop" alt=""/>
     </file>
-    <file name="product-categories-homepage-carousel-printers-et2750.jpg" crc="432145283" ref="index">
+    <file name="product-categories-homepage-carousel-printers-et2750.jpg" crc="432145283" ref="index:desktop">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="desktop" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="qls-computer-repairs-icon.png" crc="380113572" ref="index">
@@ -336,25 +342,25 @@
     <file name="accord.png" crc="3887827887" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
       <caption webpage="laptop" alt=""/>
       <caption webpage="untitled-6" alt=""/>
-      <caption webpage="pinter" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="maintainence" alt=""/>
       <caption webpage="desktop" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="pinter" alt=""/>
     </file>
     <file name="acc.png" crc="42785558" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
       <caption webpage="laptop" alt=""/>
       <caption webpage="untitled-6" alt=""/>
-      <caption webpage="pinter" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="maintainence" alt=""/>
       <caption webpage="desktop" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="pinter" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="72811608" seo="true" mt="1570178457388" redirect="true"/>
   <file name="laptop.html" crc="4138149673" seo="true" mt="1570178457388" redirect="true"/>
-  <file name="desktop.html" crc="4294096058" seo="true" mt="1570178457388" redirect="true"/>
+  <file name="desktop.html" crc="3869362071" seo="true" mt="1570178759216" redirect="true"/>
   <file name="contact.html" crc="3851879608" seo="true" mt="1570178457388" redirect="true"/>
   <file name="untitled-6.html" crc="4191367867" seo="true" mt="1570178457388" redirect="true"/>
   <file name="pinter.html" crc="423016002" seo="true" mt="1570178457388" redirect="true"/>
