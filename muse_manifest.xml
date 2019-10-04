@@ -1,47 +1,57 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsystems.in" resolutions="1x" timestamp="1567855198922">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsys.com" resolutions="1x" timestamp="1570176848254">
+  <folder name="fonts">
+    <file name="myriadpro-bold.woff" crc="4284783996"/>
+    <file name="myriadpro-bold.eot" crc="4279868340"/>
+    <file name="myriadpro-bold.svg" crc="420417626"/>
+    <file name="myriadpro-regular.woff" crc="3960264025"/>
+    <file name="myriadpro-regular.eot" crc="357507949"/>
+    <file name="myriadpro-regular.svg" crc="3977161848"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4268787018"/>
-    <file name="master_b-master.css" crc="4079217736" ref="laptop:untitled-7:index:desktop:contact"/>
-    <file name="laptop.css" crc="465477612" ref="laptop"/>
-    <file name="iefonts_laptop.css" crc="61412587" ref="laptop"/>
-    <file name="untitled-7.css" crc="3845457017" ref="untitled-7"/>
-    <file name="index.css" crc="440615550" ref="index"/>
-    <file name="desktop.css" crc="340833796" ref="desktop"/>
-    <file name="contact.css" crc="3881285723" ref="contact"/>
+    <file name="site_global.css" crc="3953312764"/>
+    <file name="master_b-master.css" crc="3975809960" ref="laptop:index:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="laptop.css" crc="370948580" ref="laptop"/>
+    <file name="iefonts_laptop.css" crc="3843211912" ref="laptop"/>
+    <file name="index.css" crc="435235356" ref="index"/>
+    <file name="desktop.css" crc="4270665557" ref="desktop"/>
+    <file name="contact.css" crc="3957911916" ref="contact"/>
+    <file name="untitled-6.css" crc="251722618" ref="untitled-6"/>
+    <file name="pinter.css" crc="212051377" ref="pinter"/>
+    <file name="maintainence.css" crc="829639" ref="maintainence"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="museutils.js" crc="340535759" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="whatinput.js" crc="86476730" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:laptop:desktop:untitled-7"/>
-    <file name="webpro.js" crc="4059564322" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:laptop:desktop:contact:untitled-7"/>
-    <file name="require.js" crc="7928878" ref="index:laptop:desktop:contact:untitled-7"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="museutils.js" crc="340535759" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="whatinput.js" crc="86476730" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:laptop:desktop:pinter:maintainence"/>
+    <file name="webpro.js" crc="4059564322" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="require.js" crc="7928878" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
   </folder>
   <folder name="images">
     <file name="38f393cb7568b60a655c8af4218f4a64.jpg" crc="83640857" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="computernew.jpg" crc="525184897" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="product-categories-homepage-carousel-printers-et2750.jpg" crc="432145283" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="accord-crop-u2497.png" crc="29361571" seo="true" ref="index:laptop:desktop:contact:untitled-7">
-      <caption webpage="index" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="contact" alt=""/>
+    <file name="accord-crop-u2497.png" crc="29361571" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
       <caption webpage="laptop" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="pinter" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="maintainence" alt=""/>
+      <caption webpage="desktop" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="qls-computer-repairs-icon.png" crc="380113572" ref="index">
@@ -109,7 +119,7 @@
     <file name="bg-computer.png" crc="502587084" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-data.jpg" crc="3993907313" ref="index">
+    <file name="bg-data.jpg" crc="3993907313" ref="index:maintainence">
       <caption webpage="index" alt=""/>
     </file>
     <file name="speed-up-pc-670x335.jpg" crc="114939268" seo="true" ref="index">
@@ -257,28 +267,85 @@
     <file name="h3.jpg" crc="4001620166" ref="desktop">
       <caption webpage="desktop" alt=""/>
     </file>
-    <file name="epson_fotoscannerff680.jpg" crc="497579521" ref="untitled-7">
+    <file name="recarga-de-toner-png-1.png" crc="3832648843" ref="pinter">
+      <caption webpage="pinter" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="4.jpg" crc="3953667864" ref="untitled-7">
+    <file name="network-iobanner.jpg" crc="233567400" ref="pinter">
+      <caption webpage="pinter" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="lp.png" crc="4213235959" ref="untitled-7">
+    <file name="u_10153653.jpg" crc="116869361" ref="pinter">
+      <caption webpage="pinter" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="recarga-de-toner-png-1.png" crc="3832648843" ref="untitled-7">
-      <caption webpage="untitled-7" alt=""/>
+    <file name="a0fbf7d046524315bd92e5577ea5f7dc_g60x0_as_fr_cl.png" crc="3888567589" ref="pinter">
+      <caption webpage="pinter" alt=""/>
     </file>
-    <file name="network-iobanner.jpg" crc="233567400" ref="untitled-7">
-      <caption webpage="untitled-7" alt=""/>
+    <file name="7dc03ef2f0e647cb978ab0afdffbb904_gm20x0_as_fr_cl.png" crc="4072778883" ref="pinter">
+      <caption webpage="pinter" alt=""/>
     </file>
-    <file name="u_10153653.jpg" crc="116869361" ref="untitled-7">
-      <caption webpage="untitled-7" alt=""/>
+    <file name="6150262c843947dea36b7a285e4e9e95_e4270-v2.png" crc="4053362629" ref="pinter">
+      <caption webpage="pinter" alt=""/>
     </file>
+    <file name="4a23e1a3c2c64940a9d7da171e57d31a_ts3170_fr_500px.png" crc="3806354796" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="f5s21b-1_t1543802388-u6259-fr.png" crc="68410648" ref="pinter"/>
+    <file name="y5z04b-1_t1539230433.png" crc="4283663191" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="a8p79a-1_t1539228066.jpg" crc="374831142" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="b5l37a-1_t1539228215.png" crc="4287736746" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="ce254a-1_t1539224486.png" crc="38713527" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="cf233a-1_t1539224630.png" crc="170441959" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="w1103ad-1_t1564128832-u6313-fr.png" crc="366021076" ref="pinter"/>
+    <file name="w1103a-1_t1564128597-u6316-fr.png" crc="159864183" ref="pinter"/>
+    <file name="d10977925_mice_keyboard_acc_tile_420x420.jpg" crc="530251877" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="81koqon-rjl_sy450_.jpg" crc="4256285638" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="guest_54f21d9f-ef9d-4dd3-b2dc-55beab2a063b.jpg" crc="381532866" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="adapter_2011-02-27.jpg" crc="87830188" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="71a4bwf0ypl_sx425_.jpg" crc="3913629545" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="types-of-computer-cables.jpg" crc="363838702" ref="pinter">
+      <caption webpage="pinter" alt=""/>
+    </file>
+    <file name="desktop_repair.jpg" crc="253883665" ref="maintainence">
+      <caption webpage="maintainence" alt=""/>
+    </file>
+    <file name="computer-programming-icon-computer-desktop-icon-24.png" crc="358889104" ref="maintainence">
+      <caption webpage="maintainence" alt=""/>
+    </file>
+    <file name="bg-computer-u6742-fr.png" crc="4060598274" ref="maintainence"/>
+    <file name="comp-servicing-banner-u6638-fr.jpg" crc="3956260600" ref="maintainence"/>
+    <file name="comp-servicing-banner.jpg" crc="110948666" ref="maintainence">
+      <caption webpage="maintainence" alt=""/>
+      <caption webpage="maintainence" alt=""/>
+    </file>
+    <file name="comp-servicing-banner-buttonu6649-m-fr.jpg" crc="4083047064" ref="maintainence"/>
   </folder>
-  <file name="index.html" crc="182892765" seo="true" mt="1567855053318" redirect="true"/>
-  <file name="laptop.html" crc="4290807029" seo="true" mt="1567843602238" redirect="true"/>
-  <file name="desktop.html" crc="329526196" seo="true" mt="1567854732272" redirect="true"/>
-  <file name="contact.html" crc="348767033" seo="true" mt="1567843602238" redirect="true"/>
-  <file name="untitled-7.html" crc="127402555" seo="true" mt="1567854732401" redirect="true"/>
+  <file name="index.html" crc="14049440" seo="true" mt="1570001837443" redirect="true"/>
+  <file name="laptop.html" crc="4107458742" seo="true" mt="1570001837443" redirect="true"/>
+  <file name="desktop.html" crc="408315925" seo="true" mt="1570176824670" redirect="true"/>
+  <file name="contact.html" crc="237746718" seo="true" mt="1570001837443" redirect="true"/>
+  <file name="untitled-6.html" crc="4058625799" seo="true" mt="1570001982947" redirect="true"/>
+  <file name="pinter.html" crc="148950474" seo="true" mt="1570176824884" redirect="true"/>
+  <file name="maintainence.html" crc="3797027302" seo="true" mt="1570001837443" redirect="true"/>
 </manifest>

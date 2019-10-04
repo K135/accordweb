@@ -1,96 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://accordsystems.in/index.html</loc>
-    <lastmod>2019-09-07</lastmod>
+    <loc>http://accordsys.com/index.html</loc>
+    <lastmod>2019-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://accordsystems.in/images/accord-crop-u2497.png</image:loc>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/icon13.png</image:loc>
+      <image:loc>http://accordsys.com/images/icon13.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/settings.png</image:loc>
+      <image:loc>http://accordsys.com/images/settings.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/256-256-f37bd5c8c36eeb36ed779054550246f2-acer-crop-u951.png</image:loc>
+      <image:loc>http://accordsys.com/images/256-256-f37bd5c8c36eeb36ed779054550246f2-acer-crop-u951.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/hp-282288.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/hp-282288.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/intel-logo-png-9.png</image:loc>
+      <image:loc>http://accordsys.com/images/intel-logo-png-9.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/256-256-8cf389ce29404994c7ed3b5b284e9c2b-canon.png</image:loc>
+      <image:loc>http://accordsys.com/images/256-256-8cf389ce29404994c7ed3b5b284e9c2b-canon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/lenovo-226431.png</image:loc>
+      <image:loc>http://accordsys.com/images/lenovo-226431.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/d-link%20ii.png</image:loc>
+      <image:loc>http://accordsys.com/images/d-link%20ii.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/download.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/download.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/asus-226422128x128.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/asus-226422128x128.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/toshiba-logo-f8a3e8de.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/toshiba-logo-f8a3e8de.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/epson-283249-crop-u966.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/epson-283249-crop-u966.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/speed-up-pc-670x335.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/speed-up-pc-670x335.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/computer-repair-services-in-cranbrook-and-fernie300x201.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/computer-repair-services-in-cranbrook-and-fernie300x201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/laptop-repairing-service-500x500.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/laptop-repairing-service-500x500.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://accordsystems.in/images/data-recovery-from-desktop-laptop-camera-hard-disk-drives-2.jpg</image:loc>
+      <image:loc>http://accordsys.com/images/data-recovery-from-desktop-laptop-camera-hard-disk-drives-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://accordsystems.in/laptop.html</loc>
-    <lastmod>2019-09-07</lastmod>
+    <loc>http://accordsys.com/laptop.html</loc>
+    <lastmod>2019-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://accordsystems.in/images/accord-crop-u2497.png</image:loc>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://accordsystems.in/desktop.html</loc>
-    <lastmod>2019-09-07</lastmod>
+    <loc>http://accordsys.com/desktop.html</loc>
+    <lastmod>2019-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://accordsystems.in/images/accord-crop-u2497.png</image:loc>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://accordsystems.in/contact.html</loc>
-    <lastmod>2019-09-07</lastmod>
+    <loc>http://accordsys.com/contact.html</loc>
+    <lastmod>2019-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://accordsystems.in/images/accord-crop-u2497.png</image:loc>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://accordsystems.in/untitled-7.html</loc>
-    <lastmod>2019-09-07</lastmod>
+    <loc>http://accordsys.com/untitled-6.html</loc>
+    <lastmod>2019-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://accordsystems.in/images/accord-crop-u2497.png</image:loc>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://accordsys.com/pinter.html</loc>
+    <lastmod>2019-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://accordsys.com/maintainence.html</loc>
+    <lastmod>2019-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://accordsys.com/images/accord-crop-u2497.png</image:loc>
     </image:image>
   </url>
 </urlset>
