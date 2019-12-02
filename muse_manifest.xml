@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accordsys.com" resolutions="1x" timestamp="1570179084132">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accord.com" resolutions="1x" timestamp="1575276145429">
+  <folder name="assets">
+    <file name="computers-in-kerala.cdr" crc="463425042" seo="true" mt="1573493719000"/>
+  </folder>
   <folder name="fonts">
     <file name="myriadpro-bold.woff" crc="4284783996"/>
     <file name="myriadpro-bold.eot" crc="4279868340"/>
@@ -6,363 +9,231 @@
     <file name="myriadpro-regular.woff" crc="3960264025"/>
     <file name="myriadpro-regular.eot" crc="357507949"/>
     <file name="myriadpro-regular.svg" crc="3977161848"/>
+    <file name="muliregular.woff" crc="3985359779"/>
+    <file name="muliregular.eot" crc="476686850"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3953312764"/>
-    <file name="master_b-master.css" crc="434194705" ref="laptop:index:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="laptop.css" crc="4112835323" ref="laptop"/>
-    <file name="iefonts_laptop.css" crc="260220804" ref="laptop"/>
-    <file name="index.css" crc="4261968716" ref="index"/>
-    <file name="desktop.css" crc="4291476761" ref="desktop"/>
-    <file name="contact.css" crc="475826237" ref="contact"/>
-    <file name="untitled-6.css" crc="4256473804" ref="untitled-6"/>
-    <file name="pinter.css" crc="189214433" ref="pinter"/>
-    <file name="maintainence.css" crc="123829936" ref="maintainence"/>
+    <file name="site_global.css" crc="4145490319"/>
+    <file name="index.css" crc="370631851" ref="index"/>
+    <file name="master_a-master.css" crc="117910727" ref="index:asus"/>
+    <file name="asus.css" crc="102309537" ref="asus"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="museutils.js" crc="340535759" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="whatinput.js" crc="86476730" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:laptop:desktop:pinter:maintainence"/>
-    <file name="webpro.js" crc="4059564322" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
-    <file name="require.js" crc="7928878" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:asus"/>
+    <file name="museutils.js" crc="340535759" ref="index:asus"/>
+    <file name="whatinput.js" crc="86476730" ref="index:asus"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:asus"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:asus"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:asus"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:asus"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:asus"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:asus"/>
+    <file name="require.js" crc="7928878" ref="index:asus"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u3742.php" crc="4186522775" ref="index"/>
+    <file name="form-u6345.php" crc="4132551613" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="38f393cb7568b60a655c8af4218f4a64.jpg" crc="83640857" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:asus"/>
+    <file name="computers in kerala.png" crc="264694254" seo="true" ref="index:asus">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="desktop" alt=""/>
+      <caption webpage="asus" alt=""/>
     </file>
-    <file name="computernew.jpg" crc="525184897" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="product-categories-homepage-carousel-printers-et2750.jpg" crc="432145283" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="qls-computer-repairs-icon.png" crc="380113572" ref="index">
+    <file name="best computer and laptop in kerala accord-crop-u194.jpg" crc="3793639127" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="laptop-hd-png-laptop-notebook-png-image-1358-u1600-fr.png" crc="4070806692" ref="index"/>
-    <file name="computer-scanner-png-background-image-u1641-fr.png" crc="3823160561" ref="index"/>
-    <file name="computer-repair-services-in-cranbrook-and-fernie.jpg" crc="469270966" ref="index">
+    <file name="477-4771135_jbl-speaker-png-jbl-charge-3.png" crc="4183039638" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ahr0cdovl3d3dy5syxb0b3btywcuy29tl2ltywdlcy93cc9wdxjjac1hcgkvaw5jb250zw50lziwmtyvmtivc2h1dhrlcnn0b2nrxzqznzixmtiyos02nzb4mzc3lmpwzw==.jpg" crc="3807059038" ref="index">
+    <file name="130-1300618_pc-game-png-pc-games-computer.png" crc="103590597" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon13.png" crc="3909569304" seo="true" ref="index">
+    <file name="laptop-transparent-image-7.png" crc="385474489" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="settings.png" crc="248032596" seo="true" ref="index">
+    <file name="best laptop shop in kerala (3).png" crc="2997566" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ezgif-2-e5be1b51989d.jpg" crc="4053329298" ref="index">
+    <file name="best server in kerala accord systems 1.jpg" crc="3791451433" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="htb1v2qrkvxxxxbxvxxq6xxfxxxm.jpg" crc="4229437218" ref="index">
+    <file name="best cctv in kerala accord systems.jpg" crc="101291788" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="qd2130.jpg" crc="4090011644" ref="index">
+    <file name="best software solutions in kerala accord systems.jpg" crc="3942399507" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logitech-c310-original-imaeztzqny7jh7gh.jpg" crc="4163749704" ref="index">
+    <file name="best samrt class in kerala accord systems.jpg" crc="3963803040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="apc-computer-ups-500x500.jpg" crc="121547567" ref="index">
+    <file name="best peripherals in kerala.png" crc="179765317" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="256-256-f37bd5c8c36eeb36ed779054550246f2-acer-crop-u951.png" crc="420479821" seo="true" ref="index">
+    <file name="best server in kerala accord systems.jpg" crc="12201951" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hp-282288.jpg" crc="355769034" seo="true" ref="index">
+    <file name="best gaming laptop in vatakara.png" crc="4237611383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="intel-logo-png-9.png" crc="4236525147" seo="true" ref="index">
+    <file name="best desktop shop in vatakara (3).png" crc="4081790442" seo="true" ref="index:asus">
+      <caption webpage="index" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best computer shop in vatakara (4).png" crc="3933339285" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="256-256-8cf389ce29404994c7ed3b5b284e9c2b-canon.png" crc="315423610" seo="true" ref="index">
+    <file name="best computer shop in vatakara (1).jpg" crc="41461432" seo="true" ref="index:asus">
+      <caption webpage="index" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best regular use laptop shop in vatakara (2).png" crc="399091224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lenovo-226431.png" crc="3868845178" seo="true" ref="index">
+    <file name="best shop in vatakara (1).png" crc="486370134" seo="true" ref="index:asus">
+      <caption webpage="index" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best laptop shop in vatakara (2).png" crc="243015880" seo="true" ref="index:asus">
+      <caption webpage="index" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best computer shop in vatakara (5).png" crc="3838849426" seo="true" ref="index:asus">
+      <caption webpage="index" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best work laptop shop in vatakara (3).png" crc="439458489" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="d-link ii.png" crc="3925888837" seo="true" ref="index">
+    <file name="best desktop in kerala accord systems.jpg" crc="375586439" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="download.jpg" crc="405976697" seo="true" ref="index">
+    <file name="best printer in kerala accord systems.jpg" crc="3795217396" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asus-226422128x128.jpg" crc="3931535495" seo="true" ref="index">
+    <file name="10.jpg" crc="240045544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="toshiba-logo-f8a3e8de.jpg" crc="226534660" seo="true" ref="index">
+    <file name="3-1.jpg" crc="277568829" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="epson-283249-crop-u966.jpg" crc="3905758941" seo="true" ref="index">
+    <file name="3.jpg" crc="4030701098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-computer.png" crc="502587084" ref="index">
+    <file name="2.png" crc="4010079507" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-data.jpg" crc="3993907313" ref="index:maintainence">
+    <file name="9.jpg" crc="4205010282" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="speed-up-pc-670x335.jpg" crc="114939268" seo="true" ref="index">
+    <file name="1.png" crc="3954282075" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="computer-repair-services-in-cranbrook-and-fernie300x201.jpg" crc="4155590350" seo="true" ref="index">
+    <file name="8.jpg" crc="256246413" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="laptop-repairing-service-500x500.jpg" crc="331362786" seo="true" ref="index">
+    <file name="y3k3txzt_400x400.jpg" crc="3778181980" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="data-recovery-from-desktop-laptop-camera-hard-disk-drives-2.jpg" crc="3934259544" seo="true" ref="index">
+    <file name="tt.jpg" crc="3771049612" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="laptop-screen-sizes.jpg" crc="3950540882" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="best-dell-laptop-670x335.jpg" crc="4188445472" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="fam8openuv3xsuxenulp23-320-80.jpg" crc="4108989633" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="71vdl54d8pl_sx425_.jpg" crc="4060419439" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="l_10188866_002.jpg" crc="323681759" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="notebooks-inspiron-15-7591-laptop-pdp-design-mod1.jpg" crc="131577625" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="notebook_inspiron_13_5000_laptop_lte_pdp_mod4.jpg" crc="336818508" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="90770663b4b325b1fd9c469ea4c7cd20.jpg" crc="4000588769" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="z2.png" crc="4060116495" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="a1.png" crc="29701623" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="a2.png" crc="473999825" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="abcd.png" crc="4144295137" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="lap1.jpg" crc="4084960615" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="a7.jpg" crc="4014637464" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="a8.jpg" crc="129098345" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="a9.png" crc="3796891206" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="cv.jpg" crc="325949692" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="l1.jpg" crc="73195117" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="l4.jpg" crc="62230572" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="l2.jpg" crc="3935464682" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="l5.jpg" crc="4197691462" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="c2.jpg" crc="339258860" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="c22.jpg" crc="19834818" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="c23-u5388-fr.jpg" crc="71408242" ref="laptop"/>
-    <file name="c24.jpg" crc="3771671347" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="d1.png" crc="4145069125" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="f1.png" crc="3833687120" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="s6.jpg" crc="130591555" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="s2.png" crc="24764051" ref="laptop">
-      <caption webpage="laptop" alt=""/>
-    </file>
-    <file name="office-computer-maintenance-nyc.jpg" crc="3908693250" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="q1.jpg" crc="447784248" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="q3.jpg" crc="3839949513" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="q4.jpg" crc="51443380" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="q5.jpg" crc="441397219" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="samsung-desktop-computer-500x500.jpg" crc="4173640081" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="r1.jpg" crc="445906628" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="r2.jpg" crc="367756042" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="product_4819-500x500.jpg" crc="3932102048" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="90gb00hlin.jpg" crc="90252255" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="31yjfe0qsxl.jpg" crc="215174155" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="l_10181009_010.jpg" crc="3872003123" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="z200_w_zw24_monitors_mcad-proe-dirtbike_24-625x352.jpg" crc="4017693697" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="h1.jpg" crc="514396109" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="h2.jpg" crc="4075054204" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="h3.jpg" crc="4001620166" ref="desktop">
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="recarga-de-toner-png-1.png" crc="3832648843" ref="pinter">
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="network-iobanner.jpg" crc="233567400" ref="pinter">
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="u_10153653.jpg" crc="116869361" ref="pinter">
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="a0fbf7d046524315bd92e5577ea5f7dc_g60x0_as_fr_cl.png" crc="3888567589" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="7dc03ef2f0e647cb978ab0afdffbb904_gm20x0_as_fr_cl.png" crc="4072778883" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="6150262c843947dea36b7a285e4e9e95_e4270-v2.png" crc="4053362629" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="4a23e1a3c2c64940a9d7da171e57d31a_ts3170_fr_500px.png" crc="3806354796" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="f5s21b-1_t1543802388-u6259-fr.png" crc="68410648" ref="pinter"/>
-    <file name="y5z04b-1_t1539230433.png" crc="4283663191" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="a8p79a-1_t1539228066.jpg" crc="374831142" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="b5l37a-1_t1539228215.png" crc="4287736746" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="ce254a-1_t1539224486.png" crc="38713527" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="cf233a-1_t1539224630.png" crc="170441959" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="w1103ad-1_t1564128832-u6313-fr.png" crc="366021076" ref="pinter"/>
-    <file name="w1103a-1_t1564128597-u6316-fr.png" crc="159864183" ref="pinter"/>
-    <file name="d10977925_mice_keyboard_acc_tile_420x420.jpg" crc="530251877" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="81koqon-rjl_sy450_.jpg" crc="4256285638" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="guest_54f21d9f-ef9d-4dd3-b2dc-55beab2a063b.jpg" crc="381532866" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="adapter_2011-02-27.jpg" crc="87830188" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="71a4bwf0ypl_sx425_.jpg" crc="3913629545" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="types-of-computer-cables.jpg" crc="363838702" ref="pinter">
-      <caption webpage="pinter" alt=""/>
-    </file>
-    <file name="desktop_repair.jpg" crc="253883665" ref="maintainence">
-      <caption webpage="maintainence" alt=""/>
-    </file>
-    <file name="computer-programming-icon-computer-desktop-icon-24.png" crc="358889104" ref="maintainence">
-      <caption webpage="maintainence" alt=""/>
-    </file>
-    <file name="bg-computer-u6742-fr.png" crc="4060598274" ref="maintainence"/>
-    <file name="comp-servicing-banner-u6638-fr.jpg" crc="3956260600" ref="maintainence"/>
-    <file name="comp-servicing-banner.jpg" crc="110948666" ref="maintainence">
-      <caption webpage="maintainence" alt=""/>
-      <caption webpage="maintainence" alt=""/>
-    </file>
-    <file name="comp-servicing-banner-buttonu6649-m-fr.jpg" crc="4083047064" ref="maintainence"/>
-    <file name="accord.png" crc="3887827887" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
-      <caption webpage="laptop" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
-      <caption webpage="pinter" alt=""/>
+    <file name="4.jpg" crc="3836802546" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="maintainence" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
-    <file name="acc.png" crc="42785558" seo="true" ref="index:laptop:desktop:contact:untitled-6:pinter:maintainence">
-      <caption webpage="laptop" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
-      <caption webpage="pinter" alt=""/>
+    <file name="apple.jpg" crc="3962580280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="maintainence" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="toshiba-600x400.jpg" crc="509545367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redhatsvg_.png" crc="293069094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skilled experts in kerala accord systems.png" crc="341329148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="direct communication in kerala accord systems.png" crc="478797008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="on time delivery.png" crc="376671606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="progress.png" crc="4065160621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="onsite support in kerala accord systems.png" crc="4029962702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web standards in kerala accord systems.png" crc="3819865943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1.png" crc="501268096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r2.png" crc="3846237406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r3.png" crc="299808623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="accord-crop-u6370.png" crc="3899319293" seo="true" ref="index:asus">
+      <caption webpage="index" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best dell laptop in kerala.jpg" crc="381693204" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best dell gaming laptop in kerala.jpg" crc="534860314" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best laptop in kerala.jpg" crc="4154955731" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best dell laptop in vatakara2.png" crc="479844467" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best dell laptopin kerala3.png" crc="408961870" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best dell laptop in vatakara.jpg" crc="4171210134" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="hp laptop in vatakara.png" crc="508129702" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="hp laptop in kerala.png" crc="509380735" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best hp laptop in kozhikode.png" crc="347262326" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+    </file>
+    <file name="best hp laptop shop.png" crc="3817388739" seo="true" ref="asus">
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
+      <caption webpage="asus" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3780281104" seo="true" mt="1570179053375" redirect="true"/>
-  <file name="laptop.html" crc="4265748636" seo="true" mt="1570179053375" redirect="true"/>
-  <file name="desktop.html" crc="4057567184" seo="true" mt="1570179053375" redirect="true"/>
-  <file name="contact.html" crc="207033165" seo="true" mt="1570179053375" redirect="true"/>
-  <file name="untitled-6.html" crc="288511495" seo="true" mt="1570179053375" redirect="true"/>
-  <file name="pinter.html" crc="3892154954" seo="true" mt="1570179053375" redirect="true"/>
-  <file name="maintainence.html" crc="4190455576" seo="true" mt="1570179053375" redirect="true"/>
+  <file name="index.html" crc="366037369" seo="true" mt="1575273620122" redirect="true"/>
+  <file name="asus.html" crc="47956796" seo="true" mt="1575273620122" redirect="true"/>
 </manifest>
