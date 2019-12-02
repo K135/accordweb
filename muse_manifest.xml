@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accord.com" resolutions="1x" timestamp="1575276145429">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accord.com" resolutions="1x" timestamp="1575276254261">
   <folder name="assets">
     <file name="computers-in-kerala.cdr" crc="463425042" seo="true" mt="1573493719000"/>
   </folder>
